@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/drawable/ic_baseline_graphic_eq_24.xml" value="0.154" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_armactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_backaactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_chestactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_back.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_back.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_back.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_back.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_arm.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_legs.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_shoulder.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_exercisesactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_finish.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_foodactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_legactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/activity_shoulderactivity.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/row.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/Desktop/fittnessapp/app/src/main/res/layout/row2.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_armactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_backaactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_chestactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_exercisesactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_foodactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_legactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_listdata.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/activity_shoulderactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/row.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/ALSHARKAOY/StudioProjects/fittnessapp/app/src/main/res/layout/rowdata.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/drawable-v24/bg_btn.xml" value="0.113" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/drawable-v24/ic_weight.xml" value="0.113" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1155" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activitiy1.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity2.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_2.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_armactivity.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_backaactivity.xml" value="0.21875" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_chestactivity.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1.xml" value="0.21875" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_back.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise1_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_back.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise2_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_back.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise3_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_back.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise4_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise5_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_arm.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_legs.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercise6_shoulder.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_exercisesactivity.xml" value="0.21875" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_finish.xml" value="0.264" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_foodactivity.xml" value="0.21875" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_legactivity.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_login.xml" value="0.2609375" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_profile_h.xml" value="0.176" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_shoulderactivity.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activity_user_page.xml" value="0.25625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activityy1nourr.xml" value="0.1" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/activityy2nourr.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/first_1.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/first_22.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/ic_launcher_foreground.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/layout_dialog_h.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/row.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/row2.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/layout/toolbar_h.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/menu/menunour.xml" value="0.2625" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/mipmap-xhdpi/ic_launcher.xml" value="0.113" />
+        <entry key="..\:/Users/nasse/Desktop/fittnessapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.xml" value="0.113" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_chestactivity.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_exercise1.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_exercise1_back.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_exercise1_legs.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_exercise5_shoulder.xml" value="0.1" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_exercisesactivity.xml" value="0.4466666666666667" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_legactivity.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_profile_h.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_second.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activity_user_page.xml" value="0.22" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activityy1nourr.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/activityy2nourr.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/layout_dialog_h.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/row.xml" value="0.1796875" />
+        <entry key="..\:/downloads/fittnessapp/app/src/main/res/layout/row2.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

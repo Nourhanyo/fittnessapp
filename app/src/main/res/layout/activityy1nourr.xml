@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/food"
+
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".activityy1nourr">
+
+    <ListView
+        android:id="@+id/listnour"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20px"
+        android:layout_weight="1"
+        android:textColor="@color/black"
+        android:cacheColorHint="#351D61"
+        android:scrollbarSize="5dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/textnour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Name"
+            android:textColor="#553293"
+            android:textColorHighlight="#F3EEEE"
+            android:textColorLink="#050505" />
+
+        <Button
+            android:id="@+id/buttonnour"
+            android:layout_width="98dp"
+            android:layout_height="45dp"
+            android:background="#555C5B5B"
+            android:gravity="bottom"
+            android:text="Done"
+            android:textColorHighlight="#973030" />
+        <!--        <ImageView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:src=-->
+
+
+    </LinearLayout>
+</LinearLayout>

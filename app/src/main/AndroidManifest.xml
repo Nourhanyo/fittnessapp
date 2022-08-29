@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fittnessapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fittnessapp">
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".activityy1nourr"
+            android:exported="false" />
+        <activity
+            android:name=".activityy2nourr"
+            android:exported="false" />
+        <activity
+            android:name=".shoulderactivity"
+            android:exported="false" />
+        <activity
+            android:name=".exercise6_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".exercise5_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".exercise4_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".exercise2_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".exercise1_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".backaactivity"
+            android:exported="false" />
+        <activity
+            android:name=".exercise4_back"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3_back"
+            android:exported="false" />
+        <activity
+            android:name=".exercise2_back"
+            android:exported="false" />
+        <activity
+            android:name=".exercise1_back"
+            android:exported="false" />
+        <activity
+            android:name=".legactivity"
+            android:exported="false" />
+        <activity
+            android:name=".exercise6_legs"
+            android:exported="false" />
+        <activity
+            android:name=".exercise5_legs"
+            android:exported="false" />
+        <activity
+            android:name=".exercise4_legs"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3_legs"
+            android:exported="false" />
+        <activity
+            android:name=".exercise2_legs"
+            android:exported="false" />
+        <activity
+            android:name=".exercise1_legs"
+            android:exported="false" />
+        <activity
+            android:name=".armactivity"
+            android:exported="false" />
+        <activity
+            android:name=".exercise2_arm"
+            android:exported="false" />
+        <activity
+            android:name=".exercise6_arm"
+            android:exported="false" />
+        <activity
+            android:name=".exercise5_arm"
+            android:exported="false" />
+        <activity
+            android:name=".exercise4_arm"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3_arm"
+            android:exported="false" />
+        <activity
+            android:name=".exercise1_arm"
+            android:exported="false" />
+        <activity
+            android:name=".chestactivity"
+            android:exported="false" />
+        <activity
+            android:name=".exercisesactivity"
+            android:exported="false" />
+        <activity
+            android:name=".finish"
+            android:exported="false" />
+        <activity
+            android:name=".exercise1"
+            android:exported="false" />
+        <activity
+            android:name=".exercise6"
+            android:exported="false" />
+        <activity
+            android:name=".exercise5"
+            android:exported="false" />
+        <activity
+            android:name=".exercise4"
+            android:exported="false" />
+        <activity
+            android:name=".exercise3"
+            android:exported="false" />
+        <activity
+            android:name=".exercise2"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilePage_h"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".second"
+            android:exported="false" />
+        <activity
+            android:name=".UserPage"
+            android:exported="false" />
+
+
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

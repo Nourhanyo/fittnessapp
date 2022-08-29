@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chestactivity"
+    android:background="@drawable/home"
+    android:maxHeight="30dp"
+    android:orientation="vertical"
+    android:visibility="visible"
+    >
+
+    <Button
+        android:id="@+id/exercisesbutton"
+        android:layout_width="223dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="153dp"
+        android:background="#28F1F8E9"
+        android:textColor="@color/black"
+        android:text="exercises"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="212dp" />
+
+    <Button
+        android:id="@+id/foodbutton"
+        android:layout_width="223dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/exercisesbutton"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="71dp"
+        android:text="food"
+        android:background="#28F1F8E9"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteY="378dp"
+        />
+
+    <Button
+        android:id="@+id/buttondata"
+        android:layout_width="223dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/foodbutton"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="69dp"
+        android:background="#28F1F8E9"
+        android:text="profile"
+        android:textColor="@color/black"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>
